@@ -1,0 +1,26 @@
+h1 {
+  color: orangered;
+  text-align: center;
+  background-color: turquoise;
+}
+body {
+  font-family: georgia;}
+
+/*#cook-time {
+  font-weight: bold;
+}
+.ingredients li {
+  list-style: square;
+}
+p .time {
+  color: gray;
+} */
+.citation {
+  color: SeaGreen;
+}
+.external-link {
+  color: SeaGreen;
+}
+h1, h2, p, li {
+  font-family: Helvetica;
+}
